@@ -1,0 +1,158 @@
+body{
+    background: linear-gradient(90deg, #5daec6, #0b3054);
+    font-family: "Poppins", sans-serif;
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 500;
+}
+span{
+    color: greenyellow
+}
+label{
+    color: white;
+    margin-left: 250px;
+}
+#firstname{
+    margin-left: 250px;
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);  
+}
+#secondname{
+    margin-left:1px;
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);   
+}
+#email{
+    margin-left: 250px;
+    height: 50px;
+    width: 810px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);   
+}
+#phone{
+    margin-left: 250px;
+    height: 50px;
+    width: 810px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);   
+}
+#address{
+    margin-left: 250px;
+    height: 50px;
+    width: 810px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);  
+}
+#stateaddress{
+    margin-left: 250px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495); 
+}
+#pincode{
+    margin-left: 10px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495); 
+}
+#country{
+    margin-left: 10px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495); 
+}
+#occupation{
+    margin-left: 250px;
+    height: 50px;
+    width: 810px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);  
+}
+#period{
+    margin-left: 250px;
+    height: 50px;
+    width: 810px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);  
+}
+#kindly{
+    margin-left: 250px;
+    height: 50px;
+    width: 810px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);    
+}
+#name{
+    margin-left: 265px;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495); 
+}
+#mail{
+    margin-left: 2px;
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495); 
+}
+h1{
+    color: black;
+    font-weight:250;
+    background-color: #50e3c2;
+    border-radius: 5px;
+    padding: 8px;
+    text-align: center;
+    display: inline;
+    margin-left: 620px;
+    padding-inline: 15px;
+    padding-block: 2px;
+}
+h1:hover{
+    cursor: pointer;
+}
+#suggestions{
+    margin-left: 250px;
+    height: 100px;
+    width: 810px;
+    border-radius: 10px;
+    background-color: #ffffff50;
+    border-color: rgba(219, 200, 200, 0.495);   
+}
+#submit{
+    margin-left: 950px;
+    background-color: #50e3c2;
+    color:black;
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+}
+#submit:hover{
+    cursor: pointer;
+}
+
+
+
